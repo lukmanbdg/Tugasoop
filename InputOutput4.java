@@ -21,6 +21,11 @@ public class InputOutput4 {
         
         System.out.print ("Masukkan Status Menikah :");
         menikah = input.nextBoolean();
+        
+        System.out.println("Nama: "+nama);
+        System.out.println("Jenis Kelamin: "+jenisKelamin);
+        System.out.println("Tinggi Badan: "+tinggiBadan);
+        System.out.println("Menikah: "+menikah);
     }
     
 }
